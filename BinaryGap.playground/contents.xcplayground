@@ -26,5 +26,7 @@
         <page name='beautifulDays'/>
         <page name='breakingRecords'/>
         <page name='viralAdvertising'/>
+        <page name='repeatedString'/>
+        <page name='printEvenAndOdd'/>
     </pages>
 </playground>
