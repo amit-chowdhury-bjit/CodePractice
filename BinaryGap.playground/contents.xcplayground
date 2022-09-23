@@ -28,5 +28,9 @@
         <page name='viralAdvertising'/>
         <page name='repeatedString'/>
         <page name='printEvenAndOdd'/>
+        <page name='jumpingOnClouds'/>
+        <page name='extraLongFactorials'/>
+        <page name='designerPdfViewer'/>
+        <page name='utopianTree'/>
     </pages>
 </playground>
