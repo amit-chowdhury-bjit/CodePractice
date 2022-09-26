@@ -32,5 +32,6 @@
         <page name='extraLongFactorials'/>
         <page name='designerPdfViewer'/>
         <page name='utopianTree'/>
+        <page name='circularArrayRotation'/>
     </pages>
 </playground>
