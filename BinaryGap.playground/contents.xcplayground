@@ -33,5 +33,9 @@
         <page name='designerPdfViewer'/>
         <page name='utopianTree'/>
         <page name='circularArrayRotation'/>
+        <page name='sockMerchant'/>
+        <page name='pageCount'/>
+        <page name='halloween-sale'/>
+        <page name='Cut the sticks'/>
     </pages>
 </playground>
