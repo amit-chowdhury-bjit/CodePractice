@@ -37,5 +37,10 @@
         <page name='pageCount'/>
         <page name='halloween-sale'/>
         <page name='Cut the sticks'/>
+        <page name='Non-divisible-subset'/>
+        <page name='TimeInWords'/>
+        <page name='chocolateFeast'/>
+        <page name='kaprekarNumbers'/>
+        <page name='minimumDistances'/>
     </pages>
 </playground>
