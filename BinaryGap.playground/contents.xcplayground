@@ -42,5 +42,10 @@
         <page name='chocolateFeast'/>
         <page name='kaprekarNumbers'/>
         <page name='minimumDistances'/>
+        <page name='apple-and-orange'/>
+        <page name='kangaroo'/>
+        <page name='the-birthday-bar'/>
+        <page name='libraryFine'/>
+        <page name='lisa-workbook'/>
     </pages>
 </playground>
