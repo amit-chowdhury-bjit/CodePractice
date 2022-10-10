@@ -47,5 +47,8 @@
         <page name='the-birthday-bar'/>
         <page name='libraryFine'/>
         <page name='lisa-workbook'/>
+        <page name='strong-password'/>
+        <page name='two-strings'/>
+        <page name='the-hurdle-race'/>
     </pages>
 </playground>
