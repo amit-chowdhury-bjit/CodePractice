@@ -50,5 +50,8 @@
         <page name='strong-password'/>
         <page name='two-strings'/>
         <page name='the-hurdle-race'/>
+        <page name='equality-in-a-array'/>
+        <page name='pangrams'/>
+        <page name='alternating-characters'/>
     </pages>
 </playground>
