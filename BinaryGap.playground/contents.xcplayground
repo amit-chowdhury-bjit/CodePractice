@@ -53,5 +53,9 @@
         <page name='equality-in-a-array'/>
         <page name='pangrams'/>
         <page name='alternating-characters'/>
+        <page name='findMedian'/>
+        <page name='palindromeIndex'/>
+        <page name='reverseArray'/>
+        <page name='pickingNumbers'/>
     </pages>
 </playground>
