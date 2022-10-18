@@ -21,7 +21,6 @@
         <page name='climbingLeaderboard'/>
         <page name='divisibleSumPairs'/>
         <page name='migratoryBirds'/>
-        <page name='bonAppetit'/>
         <page name='Angry Professor  '/>
         <page name='beautifulDays'/>
         <page name='breakingRecords'/>
@@ -57,5 +56,6 @@
         <page name='palindromeIndex'/>
         <page name='reverseArray'/>
         <page name='pickingNumbers'/>
+        <page name='Weighted Uniform Strings'/>
     </pages>
 </playground>
