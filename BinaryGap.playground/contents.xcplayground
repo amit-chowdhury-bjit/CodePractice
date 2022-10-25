@@ -57,5 +57,7 @@
         <page name='reverseArray'/>
         <page name='pickingNumbers'/>
         <page name='Weighted Uniform Strings'/>
+        <page name='LinkedList'/>
+        <page name='LinkedListLearning'/>
     </pages>
 </playground>
