@@ -59,5 +59,7 @@
         <page name='Weighted Uniform Strings'/>
         <page name='LinkedList'/>
         <page name='LinkedListLearning'/>
+        <page name='biggerIsGreater'/>
+        <page name='highestValuePalindrome'/>
     </pages>
 </playground>

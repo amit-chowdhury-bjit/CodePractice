@@ -172,3 +172,21 @@ let data = [1,2,3,4,5]
 
 attemptAction(with:5)
 print(attemptAction(with:5))
+
+var i = 5
+repeat {
+    print(i)
+    i += 1
+}while (i < 5)
+
+func aHigherOrderFunction(_ operation: (Int) -> ()) {
+  let numbers = 1...10
+  numbers.forEach(operation)
+}
+
+
+
+aHigherOrderFunction { value in
+    print(value)
+}
+
