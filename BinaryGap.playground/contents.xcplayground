@@ -61,5 +61,7 @@
         <page name='LinkedListLearning'/>
         <page name='biggerIsGreater'/>
         <page name='highestValuePalindrome'/>
+        <page name='Buble Sort'/>
+        <page name='Inseration Sort'/>
     </pages>
 </playground>
